@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1> Hi👋 I'm Yeji </h1>
-  
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLee-ye-ji&count_bg=%23EB95AB&title_bg=%23967CA6&icon=&icon_color=%23E7E7E7&title=%E2%99%AA%E2%99%AB*%E2%80%A2%E2%99%AA&edge_flat=false"/></a>
 </div>
 
 ## 🌱 
