@@ -1,4 +1,8 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?&color=auto)
+
+### Hi👋 I'm Yeji
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-ye-ji&show_icons=true&theme=omni)
 
 <!--
 **Lee-ye-ji/Lee-ye-ji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-ye-ji&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![footer](https://capsule-render.vercel.app/api?section=footer)
+
