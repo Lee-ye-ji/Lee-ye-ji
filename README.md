@@ -7,6 +7,8 @@
 </div>
 
 
+![footer](https://capsule-render.vercel.app/api?section=footer&color=auto)
+
 <!--  ## ⚡ PROJECT ⚡ 
  **` ☕ LaHol 프로젝트`**</br>
  커피 통합 E-commerce 웹 사이트</br>
@@ -38,7 +40,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-![footer](https://capsule-render.vercel.app/api?section=footer)
 
