@@ -1,7 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?&color=auto)
 
 <div align="center">
-  <h1> Hi!🖐🏻 I'm Yeji🖤 </h1>
+<!--   <h1> Hi!🖐🏻 I'm Yeji🖤 </h1> -->
+  
+![35757492_60x60](https://user-images.githubusercontent.com/59958929/135983864-70c22dee-364f-43e7-9b05-57f5a3313751.gif)
+  
+![d03a1c4cd5e2cda3779adf4ce65e6875](https://user-images.githubusercontent.com/59958929/135983874-c79f3f6a-7b4c-4ba0-97c8-4ab3a40eba08.gif)</br>
+  
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLee-ye-ji&count_bg=%23EB95AB&title_bg=%23967CA6&icon=&icon_color=%23E7E7E7&title=%E2%99%AA%E2%99%AB*%E2%80%A2%E2%99%AA&edge_flat=false"/></a>
   
 </div>
