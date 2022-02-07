@@ -20,7 +20,7 @@ I hope there will be good results!🍀
   <img src="https://img.shields.io/badge/scss-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-FFD500?style=for-the-badge&logo=javascript&logoColor=000">
     </br>
-  <img alt="React" src ="https://img.shields.io/badge/React-000.svg?&style=for-the-badge&logo=React&logoColor=rgb(97, 218, 251)"/>
+  <img alt="React" src ="https://img.shields.io/badge/React-000.svg?&style=for-the-badge&logo=React&logoColor=rgb(97,%20218,%20251)"/>
   <img src="https://img.shields.io/badge/vue.js-2E7D32?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 <!--   <img src="https://img.shields.io/badge/Nuxt.js-FFD500?style=for-the-badge&logo=Nuxt.js&logoColor=000"> -->
 </div>
