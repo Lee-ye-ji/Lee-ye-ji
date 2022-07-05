@@ -7,7 +7,7 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLee-ye-ji&count_bg=%23EB95AB&title_bg=%23967CA6&icon=&icon_color=%23E7E7E7&title=%E2%99%AA%E2%99%AB*%E2%80%A2%E2%99%AA&edge_flat=false"/></a>
   
 <div>
-  <h1>FrontEnd</h1>
+  <h3>technology to use</h3>
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <!--   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> -->
   <img src="https://img.shields.io/badge/scss-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
@@ -19,7 +19,7 @@
 </div>
 
 <div>
-  <h1>BackEnd</h1>
+  <h3>experienced</h3>
   <img src="https://img.shields.io/badge/JAVA-1572B6?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-4D4D4D?style=for-the-badge&logo=Node.js&logoColor=6DB33F">
